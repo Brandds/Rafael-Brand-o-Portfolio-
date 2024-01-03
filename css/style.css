@@ -170,14 +170,14 @@ button {
   place-items: center;
   width: 88px;
   height: 88px;
-  background-image: url("menu.svg");
+  background-image: url("../imgs/menu.svg");
   background-repeat: no-repeat;
   background-position: center;
   visibility: hidden;
 }
 
 body.open .burger {
-  background-image: url("close.svg");
+  background-image: url("../imgs/close.svg");
 }
 
 .background {
